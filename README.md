@@ -1,0 +1,1 @@
+Hi, my project gives me a 404 error when I hit runserver. Can anyone help me run my project? This project is a site that login on the first page and takes the persiandate from the user on the next page.
